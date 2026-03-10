@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Abstract digital storage background",
+      "imageUrl": "https://picsum.photos/seed/archiveflow-hero/1200/600",
+      "imageHint": "abstract cloud storage"
+    },
+    {
+      "id": "file-placeholder",
+      "description": "Generic file icon background",
+      "imageUrl": "https://picsum.photos/seed/file-placeholder/400/300",
+      "imageHint": "document pattern"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Default user profile picture",
+      "imageUrl": "https://picsum.photos/seed/user1/200/200",
+      "imageHint": "person portrait"
+    }
+  ]
+}
