@@ -1,0 +1,1 @@
+{"user_message": "This is the user message being sent to the model.", "images": ["Image one", "Image two"], "image_analysis": "This is the model response.", "_zap_data_was_skipped": true}This is the user message being sent to the model.Image one,Image twoThis is the model response.
